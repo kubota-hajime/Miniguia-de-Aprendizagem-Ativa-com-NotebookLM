@@ -48,4 +48,3 @@ A **Engenharia de Comando** é a ciência de criar entradas que funcionam como u
 3.  **Para Troubleshooting:** "Analise meu prompt anterior e sugira melhorias usando verbos de ação e especificações de formato para evitar ambiguidades".
 
 ---
-*Este material foi consolidado como parte do projeto prático na plataforma DIO, utilizando as capacidades analíticas do NotebookLM.*
