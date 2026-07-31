@@ -1,13 +1,13 @@
 # Miniguia-de-Aprendizagem-Ativa-com-NotebookLM
 
 ## 1. Contexto e Objetivos
-O assunto escolhido para este caderno temático é a **intersecção entre a Engenharia de Comandos para IA e a Gestão de Conhecimento Pessoal (PKM) via Mapas de Conteúdo (MOCs)**.
+O assunto escolhido para este caderno temático é a **intersecção entre a Engenharia de Prompts para IA e a Gestão de Conhecimento Pessoal (PKM) via Mapas de Conteúdo (MOCs)**.
 
 **Objetivo:** Compreender como formular instruções precisas para extrair o máximo de potencial de modelos de linguagem (LLMs) e, simultaneamente, utilizar a metodologia MOC para organizar, navegar e desenvolver as ideias geradas de forma não linear e fluida.
 
 ## 2. Curadoria de Fontes
 As fontes utilizadas e carregadas no NotebookLM incluem:
-1.  **Engenharia de Comandos para IA:** Guia de melhores práticas corporativas para arquitetura de intenção.
+1.  **Engenharia de Prompts para IA:** Guia de melhores práticas corporativas para arquitetura de intenção.
 2.  **Estratégias de iteração de prompt (Google Cloud):** Documentação técnica sobre o ciclo de refinamento de comandos.
 3.  **How to Make a Complete Map of Every Thought You Think (Lion Kimbro):** O texto seminal de 2003 que introduziu o conceito de mapeamento de pensamentos.
 4.  **Map of Contents (note-taking) - Grokipedia:** Enciclopédia sobre a definição, história e implementação de MOCs em ferramentas digitais.
