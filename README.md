@@ -33,7 +33,7 @@ Abaixo, registro o raciocínio aplicado para extrair informações das fontes:
 ## 4. Miniguia de Estudo (Entrega Final)
 
 ### Resumo Estruturado: O Poder dos MOCs e Prompts
-A **Engenharia de Comando** é a ciência de criar entradas que funcionam como um "roteiro técnico" para a IA, onde a eficácia dita a utilidade do resultado. Já os **MOCs (Mapas de Conteúdo)** são hubs centrais de notas que utilizam hiperlinks para conectar ideias relacionadas, funcionando como "constelações" em um gráfico de conhecimento. Juntos, permitem que o usuário supere o **Ponto de Aperto Mental** (Mental Squeeze Point), que ocorre quando o volume de informação não organizada se torna desencorajador.
+A **Engenharia de Prompt** é a ciência de criar entradas que funcionam como um "roteiro técnico" para a IA, onde a eficácia dita a utilidade do resultado. Já os **MOCs (Mapas de Conteúdo)** são hubs centrais de notas que utilizam hiperlinks para conectar ideias relacionadas, funcionando como "constelações" em um gráfico de conhecimento. Juntos, permitem que o usuário supere o **Ponto de Aperto Mental** (Mental Squeeze Point), que ocorre quando o volume de informação não organizada se torna desencorajador.
 
 ### Glossário de Conceitos
 *   **Prompt (Comando):** Entrada fornecida ao modelo para receber uma resposta específica.
