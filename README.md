@@ -1,7 +1,7 @@
 # Miniguia-de-Aprendizagem-Ativa-com-NotebookLM
 
 ## 1. Contexto e Objetivos
-O assunto escolhido para este caderno temático é a **intersecção entre a Engenharia de Prompts para IA e a Gestão de Conhecimento Pessoal (PKM) via Mapas de Conteúdo (MOCs)**.
+O assunto escolhido para este notebook temático é a **intersecção entre a Engenharia de Prompts para IA e a Gestão de Conhecimento Pessoal (PKM) via Mapas de Conteúdo (MOCs)**.
 
 **Objetivo:** Compreender como formular instruções precisas para extrair o máximo de potencial de modelos de linguagem (LLMs) e, simultaneamente, utilizar a metodologia MOC para organizar, navegar e desenvolver as ideias geradas de forma não linear e fluida.
 
