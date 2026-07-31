@@ -38,7 +38,7 @@ A **Engenharia de Comando** é a ciência de criar entradas que funcionam como u
 ### Glossário de Conceitos
 *   **Prompt (Comando):** Entrada fornecida ao modelo para receber uma resposta específica.
 *   **MOC (Map of Content):** Uma meta-nota que serve como índice para um tópico ou perspectiva específica.
-*   **Nota Atômica:** Unidade foundational que captura uma única ideia de forma concisa.
+*   **Nota Atômica:** Unidade fundamental que captura uma única ideia de forma concisa.
 *   **Zero-shot vs. Few-shot:** Instrução direta sem exemplos vs. fornecimento de exemplos para calibrar o comportamento da IA.
 *   **Heterarquia:** Estrutura não hierárquica onde as notas podem se interconectar livremente sem a rigidez de pastas.
 
